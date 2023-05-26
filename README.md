@@ -1,2 +1,2 @@
 # AI-Assistant
-In this project i have created an AI assistant "L.A.T.H.A" which can do various tasks.
+In this project i have created an AI assistant "L.A.T.H.A" which can do various tasks such as Play Game (Rock Paper Scissor with GUI), Search anything from wikipedia, google maps, etc, Play video from YouTube, Email Sender, WhatsApp Message Sender, COVID Tracker, Weather, Jokes, News, Capture Photo, Math Calculations, Timer, In-built search image display, Smart Dictionary Search, OS Info, Battery Info, Window, Tab Operations, Opening Websites, File Operations (Creating Files), Web Automation (HTML Project), Coin Toss, Roll Dice, Translator, ToDo List, Directions on Map, Screenshots, Volume Control, Face unlock
